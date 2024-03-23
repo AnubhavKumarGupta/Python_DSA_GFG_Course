@@ -1,4 +1,4 @@
-# Python DSA (Data Structures and Algorithms) GFG Self Paced Course Solutions
+# Python DSA (Data Structures & Algorithms) GFG Self Paced Course Solutions
 
 ## Overview:
 - This repository contains solutions to problems from the Python Data Structures and Algorithms course on GeeksforGeeks (GFG). 
