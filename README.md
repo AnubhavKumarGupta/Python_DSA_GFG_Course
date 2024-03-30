@@ -18,3 +18,6 @@ If you would like to contribute to this repository by adding more solutions or i
 These solutions are meant for learning and reference purposes. Understand the concepts and try to solve problems on your own before referring to the solutions here.
 
 Happy coding! 🚀
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Python-DSA-GFG&label=Solution%20views&color=0e75b6&style=flat" alt="Python-DSA-GFG" /> </p>
+
