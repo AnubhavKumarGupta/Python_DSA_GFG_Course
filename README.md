@@ -3,6 +3,7 @@
 ## Overview:
 - This repository contains solutions to problems from the Python Data Structures and Algorithms course on GeeksforGeeks (GFG). 
 - The solutions are written in Python and are organized based on different topics covered in the course.
+- I bought this course to learn Data Structures and Algorithms with Python. I got it during the 3-90 challenge on GeeksforGeeks.
 
 ## Contributing
 If you would like to contribute to this repository by adding more solutions or improving existing ones, please follow these steps:
