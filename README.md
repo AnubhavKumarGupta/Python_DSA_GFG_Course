@@ -39,10 +39,6 @@ Each section contains:
 2. **Learn and Implement**: Before referring to the solution, try solving the problem on your own. Once done, you can check my implementation for comparison and better understanding.
 3. **Review Notes**: Use the handwritten notes to grasp the underlying concepts more thoroughly.
 
-## Why This Repository?
-- **Comprehensive Coverage**: It covers a wide range of DSA topics, providing a well-rounded understanding of key concepts in Python.
-- **Clear and Concise**: Each solution and note is designed to be easy to understand, with comments and explanations to guide you through complex topics.
-- **Practical**: The solutions and notes are practical, focused on helping you prepare for coding interviews, competitive programming, and academic exams.
 
 ## Contribution
 Feel free to fork the repository and contribute if you wish to add new solutions, improve existing ones, or provide better explanations. Together, we can make this a richer resource for everyone!
