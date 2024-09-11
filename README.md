@@ -1,9 +1,11 @@
 # Python DSA (Data Structures & Algorithms) GFG Self Paced Course Solutions
 
 ## Overview
-This repository contains my solutions to the problems from the **Python Data Structures and Algorithms** course offered by **GeeksforGeeks (GFG)**. The solutions are written in Python and are carefully organized by topic, making it easier to navigate and find specific DSA concepts.
 
-I purchased this course as part of the **3-90 challenge** on GFG, which aims to help learners strengthen their DSA skills in Python within 90 days. This repository serves as both a learning resource and a reference for others who want to understand the concepts of DSA more deeply.
+- This repository contains solutions to problems from the Python Data Structures and Algorithms course by GeeksforGeeks (GFG).
+- The solutions are written in Python and organized by DSA topics.
+- I enrolled in this course as part of the 3-90 challenge to improve my problem-solving skills using Python.
+
 
 ## Structure
 The repository is divided into different sections based on DSA topics, such as:
@@ -22,7 +24,15 @@ Each section contains:
 - Time and space complexity analysis to understand the efficiency of the solution.
 
 ## Handwritten Notes
-To complement the code, I have also prepared **handwritten notes** covering each topic in detail. These notes summarize the theory behind the data structures and algorithms, including visual representations and key points that help reinforce understanding. They can be a great resource for revision, especially before interviews or exams.
+- I have prepared detailed handwritten notes for every topic covered in the course.
+- These notes include:
+  - A summary of the key concepts of Data Structures and Algorithms.
+  - Visual representations and diagrams for better understanding.
+  - Important points to remember for interviews and exams.
+- The notes serve as an excellent resource for:
+  - Quick revision before interviews.
+  - Reinforcing concepts while learning DSA with Python.
+  - Providing deeper insights into complex topics with visual aids.
 
 ## Usage
 1. **Explore the Code**: Navigate through the directories to find solutions for different DSA topics. 
