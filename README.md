@@ -1,4 +1,4 @@
-# Python DSA (Data Structures & Algorithms) GFG Self Paced Course Solutions
+# Python DSA (Data Structures & Algorithms) GFG Self Paced Course
 
 ## Overview
 
